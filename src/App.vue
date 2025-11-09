@@ -1,12 +1,7 @@
 <script setup lang="ts">
+import Box from "./Box.vue";
 </script>
 
-<template>
-  <div style="padding: 2rem; font-family: system-ui">
-    <h1>Welcome to simple_box! 🎉</h1>
-    <p>Your app is ready to go.</p>
-  </div>
-</template>
+<template><Box /></template>
 
-<style scoped>
-</style>
+<style scoped></style>
